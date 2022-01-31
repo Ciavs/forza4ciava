@@ -1,0 +1,44 @@
+.forzatabella{
+
+    
+    margin-top: 50px;
+    width: 538px;
+    height: 498px;
+    
+    
+}
+.border {
+    border-radius: 25px solid #ccff03 !important;
+    color: violet;
+    font-size: 100px;
+    height: 140px;
+    width: 100px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+      
+}
+.titolo
+{
+    color: violet;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.vince{
+    color: violet;
+    text-align: center;
+    margin-top: 400px;
+    
+}
+.overlay{
+    
+    display: none;
+    
+}
+.giocatore1{
+    background-color: red;
+}
+.giocatore2{
+
+    background-color:yellow;
+}
